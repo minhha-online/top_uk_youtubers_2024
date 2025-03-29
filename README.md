@@ -456,11 +456,11 @@ Here are the key questions we need to answer for our marketing client:
 
 ### 4. Which 3 channels have the highest average views per video?
 
-| Channel Name | Averge Views per Video (M) |
-|--------------|-----------------|
-| 24 News HD   | 349.87          |
-| Slogo        | 62.82           |
-| Dua Lipa     | 46.22           |
+| Rank |Channel Name | Averge Views per Video (M) |
+|------|-------------|----------------------------|
+| 1    | 24 News HD  | 349.87                     |
+| 2    | Slogo       | 62.82                      |
+| 3    | Dua Lipa    | 46.22                      |
 
 
 ### 5. Which 3 channels have the highest views per subscriber ratio?
@@ -502,7 +502,7 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 
 Campaign idea = product placement 
 
-1. NoCopyrightSounds 
+a. NoCopyrightSounds 
 - Average views per video = 6.03 million
 - Product cost = $5
 - Potential units sold per video = 6.03 million x 2% conversion rate = 120.600 units sold
