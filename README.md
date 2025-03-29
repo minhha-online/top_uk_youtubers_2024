@@ -1,4 +1,4 @@
-Top UK Youtubers 2024 Analysis
+![image](https://github.com/user-attachments/assets/ca98e099-19f1-4df1-abd1-a2fae0c18476)Top UK Youtubers 2024 Analysis
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
@@ -450,25 +450,25 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name         | Subscribers (M) |
 |------|----------------------|-----------------|
-| 1    | NoCopyrightSounds    | 33.60           |
-| 2    | DanTDM               | 28.60           |
-| 3    | Dan Rhodes           | 26.50           |
-| 4    | Miss Katy            | 24.50           |
-| 5    | Mister Max           | 24.40           |
-| 6    | KSI                  | 24.10           |
-| 7    | Jelly                | 23.50           |
-| 8    | Dua Lipa             | 23.30           |
-| 9    | Sidemen              | 21.00           |
-| 10   | Ali-A                | 18.90           |
+| 1    | NoCopyrightSounds    | 34.00           |
+| 2    | DanTDM               | 29.20           |
+| 3    | Dan Rhodes           | 26.90           |
+| 4    | Miss Katy            | 25.30           |
+| 5    | KSI                  | 25.00           |
+| 6    | Miss Katy            | 25.00           |
+| 7    | Dua Lipa             | 24.10           |
+| 8    | Jelly                | 23.50           |
+| 9    | colinfurze           | 20.70           |
+| 10   | Ali-A                | 19.60           |
 
 
 ### 2. Which 3 channels have uploaded the most videos?
 
 | Rank | Channel Name    | Videos Uploaded |
 |------|-----------------|-----------------|
-| 1    | GRM Daily       | 14,696          |
-| 2    | Manchester City | 8,248           |
-| 3    | Yogscast        | 6,435           |
+| 1    | Boomerang UK    | 190,379         |
+| 2    | More Emily      | 59,681          |
+| 3    | Sing King       | 43,714          |
 
 
 
@@ -477,27 +477,27 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name | Total Views (B) |
 |------|--------------|-----------------|
-| 1    | DanTDM       | 19.78           |
-| 2    | Dan Rhodes   | 18.56           |
-| 3    | Mister Max   | 15.97           |
+| 1    | DanTDM       | 20.13           |
+| 2    | Dan Rhodes   | 19.16           |
+| 3    | Mister Max   | 16.44           |
 
 
 ### 4. Which 3 channels have the highest average views per video?
 
 | Channel Name | Averge Views per Video (M) |
 |--------------|-----------------|
-| Mark Ronson  | 32.27           |
-| Jessie J     | 5.97            |
-| Dua Lipa     | 5.76            |
+| 24 News HD   | 349.87          |
+| Slogo        | 62.82           |
+| Dua Lipa     | 46.22           |
 
 
 ### 5. Which 3 channels have the highest views per subscriber ratio?
 
 | Rank | Channel Name       | Views per Subscriber        |
 |------|-----------------   |---------------------------- |
-| 1    | GRM Daily          | 1185.79                     |
-| 2    | Nickelodeon        | 1061.04                     |
-| 3    | Disney Junior UK   | 1031.97                     |
+| 1    | Dumori Bay         | 1,207.76                    |
+| 2    | ARPO The Robot     | 1,064.76                    |
+| 3    | Awakening Music    | 1,048.39                    |
 
 
 
@@ -505,9 +505,9 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name    | Subscriber Engagement Rate  |
 |------|-----------------|---------------------------- |
-| 1    | Mark Ronson     | 343,000                     |
-| 2    | Jessie J        | 110,416.67                  |
-| 3    | Dua Lipa        | 104,954.95                  |
+| 1    | 24 News HD      | 352,500                     |
+| 2    | Slogo           | 110,309.28                  |
+| 3    | Dua Lipa        | 77,993.53                   |
 
 
 
@@ -531,30 +531,30 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 Campaign idea = product placement 
 
 1. NoCopyrightSounds 
-- Average views per video = 6.92 million
+- Average views per video = 6.03 million
 - Product cost = $5
-- Potential units sold per video = 6.92 million x 2% conversion rate = 138,400 units sold
-- Potential revenue per video = 138,400 x $5 = $692,000
+- Potential units sold per video = 6.03 million x 2% conversion rate = 120.600 units sold
+- Potential revenue per video = 120,600 x $5 = $603,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $692,000 - $50,000 = $642,000**
+- **Net profit = $603,000 - $50,000 = $553,000**
 
 b. DanTDM
 
-- Average views per video = 5.34 million
+- Average views per video = 5.37 million
 - Product cost = $5
-- Potential units sold per video = 5.34 million x 2% conversion rate = 106,800 units sold
-- Potential revenue per video = 106,800 x $5 = $534,000
+- Potential units sold per video = 5.37 million x 2% conversion rate = 107,400 units sold
+- Potential revenue per video = 107,400 x $5 = $537,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $534,000 - $50,000 = $484,000**
+- **Net profit = $537,000 - $50,000 = $487,000**
 
 c. Dan Rhodes
 
-- Average views per video = 11.15 million
+- Average views per video = 11.41 million
 - Product cost = $5
-- Potential units sold per video = 11.15 million x 2% conversion rate = 223,000 units sold
-- Potential revenue per video = 223,000 x $5 = $1,115,000
+- Potential units sold per video = 11.41 million x 2% conversion rate = 228,200 units sold
+- Potential revenue per video = 228,200 x $5 = $1,141,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $1,115,000 - $50,000 = $1,065,000**
+- **Net profit = $1,141,000 - $50,000 = $1,091,000**
 
 
 Best option from category: Dan Rhodes
@@ -623,34 +623,34 @@ ORDER BY
 
 Campaign idea = sponsored video series  
 
-1. GRM Daily
-- Average views per video = 510,000
+1. **Boomerang UK** 
+- Average views per video = 20,000
 - Product cost = $5
-- Potential units sold per video = 510,000 x 2% conversion rate = 10,200 units sold
-- Potential revenue per video = 10,200 x $5= $51,000
+- Potential units sold per video = 20,000 x 2% conversion rate = 400 units sold
+- Potential revenue per video = 400 x $5= $2,000
 - Campaign cost (11-videos @ $5,000 each) = $55,000
-- **Net profit = $51,000 - $55,000 = -$4,000 (potential loss)**
+- **Net profit = $2,000 - $55,000 = -$53,000 (potential loss)**
 
-b. **Manchester City**
+b. **More Emily**
 
-- Average views per video = 240,000
+- Average views per video = 80,000
 - Product cost = $5
-- Potential units sold per video = 240,000 x 2% conversion rate = 4,800 units sold
-- Potential revenue per video = 4,800 x $5= $24,000
+- Potential units sold per video = 80,000 x 2% conversion rate = 1,600 units sold
+- Potential revenue per video = 1,600 x $5= $8,000
 - Campaign cost (11-videos @ $5,000 each) = $55,000
-- **Net profit = $24,000 - $55,000 = -$31,000 (potential loss)**
+- **Net profit = $8,000 - $55,000 = -$47,000 (potential loss)**
 
-b. **Yogscast**
+b. **Sing King**
 
-- Average views per video = 710,000
+- Average views per video = 120,000
 - Product cost = $5
-- Potential units sold per video = 710,000 x 2% conversion rate = 14,200 units sold
-- Potential revenue per video = 14,200 x $5= $71,000
+- Potential units sold per video = 120,000 x 2% conversion rate = 2,400 units sold
+- Potential revenue per video = 2,400 x $5= $12,000
 - Campaign cost (11-videos @ $5,000 each) = $55,000
-- **Net profit = $71,000 - $55,000 = $16,000 (profit)**
+- **Net profit = $12,000 - $55,000 = $43,000 (potential loss)**
 
 
-Best option from category: Yogscast
+None of three channel is suitable.
 
 #### SQL query 
 ```sql
@@ -695,7 +695,7 @@ FROM
 
 -- 4.
 WHERE
-    channel_name IN ('GRM Daily', 'Man City', 'YOGSCAST Lewis & Simon ')
+    channel_name IN ('Boomerang UK', 'More Emily', 'Sing King')
 
 
 -- 5.
@@ -716,30 +716,30 @@ Campaign idea = Influencer marketing
 
 a. DanTDM
 
-- Average views per video = 5.34 million
+- Average views per video = 5.37 million
 - Product cost = $5
-- Potential units sold per video = 5.34 million x 2% conversion rate = 106,800 units sold
-- Potential revenue per video = 106,800 x $5 = $534,000
+- Potential units sold per video = 5.37 million x 2% conversion rate = 107,400 units sold
+- Potential revenue per video = 107,400 x $5 = $537,000
 - Campaign cost (3-month contract) = $130,000
-- **Net profit = $534,000 - $130,000 = $404,000**
+- **Net profit = $537,000 - $130,000 = $407,000**
 
 b. Dan Rhodes
 
-- Average views per video = 11.15 million
+- Average views per video = 11.41 million
 - Product cost = $5
-- Potential units sold per video = 11.15 million x 2% conversion rate = 223,000 units sold
-- Potential revenue per video = 223,000 x $5 = $1,115,000
+- Potential units sold per video = 11.41 million x 2% conversion rate = 228,200 units sold
+- Potential revenue per video = 228,200 x $5 = $1,141,000
 - Campaign cost (3-month contract) = $130,000
-- **Net profit = $1,115,000 - $130,000 = $985,000**
+- **Net profit = $1,141,000 - $130,000 = $1,011,000**
 
 c. Mister Max
 
-- Average views per video = 14.06 million
+- Average views per video = 13.82 million
 - Product cost = $5
-- Potential units sold per video = 14.06 million x 2% conversion rate = 281,200 units sold
-- Potential revenue per video = 281,200 x $5 = $1,406,000
+- Potential units sold per video = 13.82 million x 2% conversion rate = 276,400 units sold
+- Potential revenue per video = 276,400 x $5 = $1,382,000
 - Campaign cost (3-month contract) = $130,000
-- **Net profit = $1,406,000 - $130,000 = $1,276,000**
+- **Net profit = $1,382,000 - $130,000 = $1,252,000**
 
 Best option from category: Mister Max
 
@@ -824,7 +824,7 @@ We discovered that
 - What do you recommend based on the insights gathered? 
   
 1. Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK
-2. Although GRM Daily, Man City and Yogcasts are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
+2. Although Boomerang UK, More Emily, Sing Kingx are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
 3. Mister Max is the best YouTuber to collaborate with if we're interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes may be better long-term options considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
 4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
 
@@ -832,10 +832,10 @@ We discovered that
 ### Potential ROI 
 - What ROI do we expect if we take this course of action?
 
-1. Setting up a collaboration deal with Dan Rhodes would make the client a net profit of $1,065,000 per video
-2. An influencer marketing contract with Mister Max can see the client generate a net profit of $1,276,000
-3. If we go with a product placement campaign with DanTDM, this could  generate the client approximately $484,000 per video. If we advance with an influencer marketing campaign deal instead, this would make the client a one-off net profit of $404,000.
-4. NoCopyrightSounds could profit the client $642,000 per video too (which is worth considering) 
+1. Setting up a collaboration deal with Dan Rhodes would make the client a net profit of $1,091,000 per video
+2. An influencer marketing contract with Mister Max can see the client generate a net profit of $1,252,000
+3. If we go with a product placement campaign with DanTDM, this could  generate the client approximately $487,000 per video. If we advance with an influencer marketing campaign deal instead, this would make the client a one-off net profit of $407,000.
+4. NoCopyrightSounds could profit the client $553,000 per video too (which is worth considering) 
 
 
 
