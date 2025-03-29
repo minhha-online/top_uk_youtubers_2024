@@ -150,7 +150,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 8. Write the documentation + commentary
 9. Publish the data to GitHub Pages
 
-## Data exploration notes
+## Data exploration
 
 This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc  
 
