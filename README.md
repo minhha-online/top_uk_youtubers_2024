@@ -39,19 +39,14 @@
 
 # Objective 
 
-- What is the key pain point? 
-
 The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
-
-
-- What is the ideal solution? 
 
 To create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their 
 - subscriber count
 - total views
 - total videos, and
 - engagement metrics
-
+  
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
 ## User story 
@@ -65,17 +60,12 @@ With this information, I can make more informed decisions about which Youtubers 
 
 # Data source 
 
-- What data is needed to achieve our objective?
-
 We need data on the top UK YouTubers in 2024 that includes their 
 - channel names
 - total subscribers
 - total views
 - total videos uploaded
 
-
-
-- Where is the data coming from? 
 The data is sourced from Kaggle (an Excel extract), [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 
 
@@ -91,7 +81,6 @@ The data is sourced from Kaggle (an Excel extract), [see here to find it.](https
 # Design 
 
 ## Dashboard components required 
-- What should the dashboard contain based on the requirements provided?
 
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 
@@ -138,7 +127,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 ## Pseudocode
 
-- What's the general approach in creating this solution from start to finish?
+- The general approach in creating this solution from start to finish:
 
 1. Get the data
 2. Explore the data in Excel
@@ -154,20 +143,12 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc  
 
-
-- What are your initial observations with this dataset? What's caught your attention so far? 
-
 1. There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data. 
 2. The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.
 3. Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.
 4. We have more data than we need, so some of these columns would need to be removed
 
-
-
-
-
 ## Data cleaning 
-- What do we expect the clean data to look like? (What should it contain? What contraints should we apply to it?)
 
 The aim is to refine our dataset to ensure it is structured and ready for analysis. 
 
@@ -194,8 +175,7 @@ And here is a tabular representation of the expected schema for the clean data:
 | total_videos | INTEGER | NO |
 
 
-
-- What steps are needed to clean and shape the data into the desired format?
+- Steps are needed to clean and shape the data into the desired format:
 
 1. Remove unnecessary columns by only selecting the ones you need
 2. Extract Youtube channel names from the first column
@@ -256,8 +236,6 @@ FROM
 
 
 # Testing 
-
-- What data quality and validation checks are you going to create?
 
 Here are the data quality tests conducted:
 
@@ -350,12 +328,8 @@ HAVING
 
 ## Results
 
-- What does the dashboard look like?
-
 ![GIF of Power BI Dashboard](assets/images/powerbi_dashboard.png)
-
-This shows the Top UK Youtubers in 2024 so far. 
-
+ 
 
 ## DAX Measures
 
@@ -432,8 +406,6 @@ RETURN viewsPerSubscriber
 # Analysis 
 
 ## Findings
-
-- What did we find?
 
 For this analysis, we're going to focus on the questions below to get the information we need for our marketing client - 
 
@@ -806,8 +778,6 @@ ORDER BY
 
 ## Discovery
 
-- What did we learn?
-
 We discovered that 
 
 
@@ -820,8 +790,6 @@ We discovered that
 
 
 ## Recommendations 
-
-- What do you recommend based on the insights gathered? 
   
 1. Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK
 2. Although Boomerang UK, More Emily, Sing Kingx are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
@@ -830,7 +798,6 @@ We discovered that
 
 
 ### Potential ROI 
-- What ROI do we expect if we take this course of action?
 
 1. Setting up a collaboration deal with Dan Rhodes would make the client a net profit of $1,091,000 per video
 2. An influencer marketing contract with Mister Max can see the client generate a net profit of $1,252,000
@@ -841,13 +808,12 @@ We discovered that
 
 
 ### Action plan
-- What course of action should we take and why?
 
 Based on our analysis, we beieve the best channel to advance a long-term partnership deal with to promote the client's products is the Dan Rhodes channel. 
 
 We'll have conversations with the marketing client to forecast what they also expect from this collaboration. Once we observe we're hitting the expected milestones, we'll advance with potential partnerships with DanTDM, Mister Max and NoCopyrightSounds channels in the future.   
 
-- What steps do we take to implement the recommended decisions effectively?
+- Steps we should take to implement the recommended decisions effectively:
 
 
 1. Reach out to the teams behind each of these channels, starting with Dan Rhodes
