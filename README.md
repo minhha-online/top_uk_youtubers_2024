@@ -1,4 +1,4 @@
-Top UK Youubers 2024 Analysis
+Top UK Youtubers 2024 Analysis
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
