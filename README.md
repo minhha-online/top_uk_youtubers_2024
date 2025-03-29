@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ca98e099-19f1-4df1-abd1-a2fae0c18476)Top UK Youtubers 2024 Analysis
+# Top UK Youtubers 2024 Analysis
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
