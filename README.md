@@ -328,7 +328,7 @@ HAVING
 
 ## Results
 
-![GIF of Power BI Dashboard](assets/images/powerbi_dashboard.png)
+![Power BI Dashboard](assets/images/powerbi_dashboard.png)
  
 
 ## DAX Measures
