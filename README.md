@@ -12,7 +12,7 @@
 - [Data Source](#data-source)
 - [Stages](#stages)
 - [Design](#design)
-  - [Mockup](#mockup)
+  - [Mockup](#dashboard-mockup)
   - [Tools](#tools)
 - [Development](#development)
   - [Pseudocode](#pseudocode)
@@ -21,7 +21,6 @@
   - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-the-sql-view)
 - [Testing](#testing)
-  - [Data Quality Tests](#data-quality-tests)
 - [Visualization](#visualization)
   - [Results](#results)
   - [DAX Measures](#dax-measures)
@@ -31,8 +30,7 @@
   - [Discovery](#discovery)
 - [Recommendations](#recommendations)
   - [Potential ROI](#potential-roi)
-  - [Potential Courses of Actions](#potential-courses-of-actions)
-- [Conclusion](#conclusion)
+  - [Action Plan](#action-plan)
 
 
 
